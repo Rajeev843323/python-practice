@@ -72,6 +72,6 @@ else:
     print('not available')    
 
 #count items in list
-thislist = ["apple", "banana", "cherry", 'banana',"orange", "kiwi", 'mango',"melon", "mango",'guava']
+thislist = ["apple", "banana", "cherry", 'banana',"orange", "kiwi", 'mango',"melon", "mango",'guava', 'xyz']
 print(thislist.count('banana'))
 print(len(thislist))
