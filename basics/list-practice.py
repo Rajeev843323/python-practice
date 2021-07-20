@@ -241,43 +241,58 @@ for i in fruits:
     if i!='kiwi':
         print('hello'+' '+i)
     else:
-        print(i)    
+        print(i)
 
 
+#Sorting of list
+#Normal alphabetic sorting
+fruits = ["mango","banana","apple", "cherry", "kiwi", ]
+fruits.sort()
+a=[]
+for i in fruits:
+    a.append(i)
+print(a)    
 
+#sort list numericaly bydefault this sort in ascending order
+lst=[10,20,5,14,3,15,15,20,12]
+lst.sort()
+print(lst)
 
+#sort in descending order
+fruits = ["mango","banana","apple", "cherry", "kiwi", ]
+lst=[10,20,5,14,3,15,15,20,12]
+fruits.sort(reverse=True)
+lst.sort(reverse=True)
+print(fruits)
+print(lst)
 
+#copying the list: this can be done by using copy() and list() function
+list1=['apple','banana','cherry','mango']
+list2=[]
+list2=list1.copy()
+print(list2)
+list3=list(list2)
+print(list3)
 
+"""Join list: there are three way through which we can join one list with another. 1st is
+simply + operator to concatenate two list, 2nd is append items of list one by one into 
+another list and 3rd is using extend method()"""
 
+list1=['a','b','c','d']
+list2=[1,2,3]
+list3=list1+list2
+print(list3)
 
+list1=['e','f','g']
+list2=[4,5,6,7]
+for i in list1:
+    list2.append(i)
+print(list2)    
+print(list1)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+list1=['e','f','g']
+list2=[4,5,6,7]
+list1.extend(list2)
+print(list1)
 
 
