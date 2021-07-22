@@ -7,3 +7,8 @@ it starts and ends with triple quotes character'''
 
 """This is another multiline comment. 
 it starts and end with 3 time double quote character"""
+
+a=input('enter 1st name')
+b='kumar'
+c=a+b
+print(c)
