@@ -133,3 +133,9 @@ tuple3=tuple1*2
 tuple4=tuple2*2
 print(tuple3)
 print(tuple4)
+
+
+#from Stringpracticeinterview import maxoccur
+import Stringpracticeinterview as spi
+
+print("MAX Occurrence: ", spi.maxoccur("asdfghjklasdfghjk"))
