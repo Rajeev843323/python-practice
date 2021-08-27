@@ -1,0 +1,240 @@
+Agent,AcctType,OpenedBy,Branch,Customer,Date,Amount
+Ashok Kumar,CD,New Accts,Central,Existing,2019-09-04,15000
+Pramod Kumar,Savings,New Accts,Westside,Existing,2019-04-20,6837
+Varun Kumar,Checking,New Accts,Westside,Existing,2019-10-18,3171
+Praveen Kumar,Checking,New Accts,Central,Existing,2019-06-22,12438
+Ashok Kumar,CD,New Accts,North County,Existing,2019-06-17,13636
+Abhishek Kumar,Checking,New Accts,Central,Existing,2019-12-13,5879
+Ashok Kumar,Savings,New Accts,Central,Existing,2019-09-16,4000
+Abhishek Kumar,Checking,New Accts,North County,New,2019-09-20,4500
+Rahul Kumar,Checking,New Accts,Central,New,2019-07-08,500
+Varun Kumar,Checking,Teller,North County,Existing,2019-04-29,14867
+Rahul Kumar,Checking,New Accts,Central,New,2019-10-15,4995
+Rahul Kumar,Savings,New Accts,Central,New,2019-11-04,10096
+Ashok Kumar,Savings,New Accts,Central,New,2019-03-06,14861
+Ashok Kumar,Checking,New Accts,Central,Existing,2019-01-24,5524
+Abhishek Kumar,Savings,Teller,North County,New,2019-03-15,5862
+Rahul Kumar,Savings,Teller,Central,Existing,2019-06-21,12592
+Abhishek Kumar,Savings,Teller,Central,Existing,2019-12-21,4348
+Varun Kumar,Savings,Teller,North County,Existing,2019-01-18,6071
+Varun Kumar,CD,New Accts,Westside,New,2019-11-12,15000
+Varun Kumar,Checking,New Accts,Westside,Existing,2019-06-06,3075
+Ashok Kumar,Savings,Teller,North County,Existing,2019-08-25,6307
+Ashok Kumar,Checking,New Accts,North County,Existing,2019-06-16,5000
+Ashok Kumar,Savings,New Accts,Central,Existing,2019-10-12,6000
+Abhishek Kumar,CD,New Accts,Central,Existing,2019-06-19,35000
+Rahul Kumar,CD,New Accts,Central,Existing,2019-11-08,14548
+Abhishek Kumar,CD,New Accts,Central,New,2019-05-13,11000
+Abhishek Kumar,Savings,New Accts,North County,Existing,2019-06-23,2878
+Pramod Kumar,CD,New Accts,Central,Existing,2019-11-05,11135
+Praveen Kumar,Checking,New Accts,Central,Existing,2019-01-09,1000
+Praveen Kumar,Checking,New Accts,Central,New,2019-12-20,3000
+Rahul Kumar,CD,Teller,Westside,Existing,2019-09-11,13000
+Varun Kumar,Checking,New Accts,Central,Existing,2019-05-18,3715
+Ashok Kumar,Savings,Teller,Central,New,2019-10-25,5701
+Praveen Kumar,Savings,Teller,Central,Existing,2019-12-11,3559
+Praveen Kumar,Checking,New Accts,North County,Existing,2019-07-26,5000
+Ashok Kumar,Checking,Teller,North County,Existing,2019-06-29,275
+Ashok Kumar,Savings,Teller,North County,Existing,2019-12-10,1000
+Praveen Kumar,Checking,New Accts,North County,New,2019-07-24,3000
+Rahul Kumar,Savings,New Accts,North County,Existing,2019-02-17,10612
+Abhishek Kumar,Checking,Teller,Westside,Existing,2019-01-17,200
+Abhishek Kumar,Checking,Teller,Central,Existing,2019-12-25,400
+Praveen Kumar,Checking,New Accts,Westside,Existing,2019-11-12,11719
+Pramod Kumar,CD,New Accts,North County,New,2019-01-05,11552
+Abhishek Kumar,Checking,New Accts,Central,Existing,2019-02-28,7342
+Rahul Kumar,CD,New Accts,Central,Existing,2019-10-01,90000
+Pramod Kumar,CD,New Accts,Westside,New,2019-03-13,14644
+Rahul Kumar,Checking,New Accts,North County,Existing,2019-06-13,3820
+Varun Kumar,IRA,Teller,North County,Existing,2019-03-18,10000
+Abhishek Kumar,CD,New Accts,Central,Existing,2019-06-03,15208
+Ashok Kumar,Checking,New Accts,Westside,Existing,2019-12-25,3807
+Ashok Kumar,Checking,Teller,North County,New,2019-07-21,10056
+Praveen Kumar,CD,New Accts,Central,New,2019-11-02,5000
+Rahul Kumar,Savings,New Accts,North County,Existing,2019-09-15,250
+Arun Kumar,Checking,New Accts,Westside,Existing,2019-05-31,344
+Praveen Kumar,CD,New Accts,Central,New,2019-08-07,11000
+"Sweta ",Checking,Teller,Central,Existing,2019-09-23,14974
+Rahul Kumar,CD,New Accts,Central,Existing,2019-10-04,13903
+Arun Kumar,CD,New Accts,Central,Existing,2019-10-17,35000
+Praveen Kumar,Savings,New Accts,Central,New,2019-03-15,5000
+Praveen Kumar,Checking,New Accts,Westside,Existing,2019-02-21,500
+Rahul Kumar,Checking,Teller,Central,New,2019-08-25,7865
+Pramod Kumar,CD,New Accts,North County,Existing,2019-09-23,4198
+Rahul Kumar,Checking,New Accts,North County,New,2019-04-02,4535
+Varun Kumar,Checking,New Accts,Central,Existing,2019-05-16,100
+Arun Kumar,CD,Teller,Central,Existing,2019-01-01,17000
+Praveen Kumar,Checking,New Accts,Central,New,2019-01-07,2749
+Praveen Kumar,Savings,New Accts,Central,New,2019-09-11,11721
+Arun Kumar,Checking,New Accts,North County,Existing,2019-07-11,4000
+Abhishek Kumar,Savings,New Accts,Central,New,2019-09-03,8915
+Varun Kumar,Checking,Teller,Westside,Existing,2019-10-01,6000
+Abhishek Kumar,Checking,New Accts,Central,Existing,2019-05-28,3434
+Pramod Kumar,Checking,New Accts,Central,Existing,2019-03-09,4000
+Ashok Kumar,Savings,New Accts,Westside,Existing,2019-06-12,500
+Ashok Kumar,Checking,New Accts,Central,Existing,2019-08-21,4635
+Abhishek Kumar,Savings,Teller,Central,Existing,2019-05-23,14475
+Praveen Kumar,CD,Teller,Westside,Existing,2019-03-15,13524
+Abhishek Kumar,CD,New Accts,North County,Existing,2019-06-24,8174
+Ashok Kumar,CD,Teller,Westside,New,2019-02-02,9268
+Varun Kumar,Checking,Teller,Central,Existing,2019-02-17,500
+Rahul Kumar,Savings,Teller,Central,New,2019-10-04,8552
+Ashok Kumar,Checking,Teller,North County,New,2019-07-30,12722
+Ashok Kumar,Savings,Teller,Westside,Existing,2019-10-25,12334
+Arun Kumar,CD,New Accts,Central,Existing,2019-04-25,10751
+Arun Kumar,CD,New Accts,Central,Existing,2019-09-02,13000
+Arun Kumar,Checking,Teller,Central,New,2019-07-29,5116
+Varun Kumar,Savings,New Accts,Central,Existing,2019-04-11,6000
+Ashok Kumar,Savings,Teller,Central,New,2019-06-04,5366
+Praveen Kumar,Savings,New Accts,North County,Existing,2019-06-19,2878
+Ashok Kumar,Checking,New Accts,North County,Existing,2019-06-25,12418
+Rahul Kumar,CD,New Accts,North County,Existing,2019-04-10,16000
+Rahul Kumar,Checking,New Accts,Central,New,2019-03-01,400
+Abhishek Kumar,CD,New Accts,Central,New,2019-05-29,8613
+Varun Kumar,CD,New Accts,Westside,New,2019-10-05,14644
+Praveen Kumar,Checking,New Accts,North County,New,2019-07-28,11798
+Ashok Kumar,CD,New Accts,Westside,Existing,2019-11-07,12000
+Ashok Kumar,CD,New Accts,North County,Existing,2019-03-08,12000
+Varun Kumar,Checking,New Accts,Central,Existing,2019-11-04,2749
+Praveen Kumar,IRA,New Accts,Central,Existing,2019-12-30,9095
+Ashok Kumar,Savings,New Accts,Westside,Existing,2019-09-06,500
+Varun Kumar,Checking,New Accts,Central,Existing,2019-01-06,12000
+Abhishek Kumar,Checking,New Accts,Westside,Existing,2019-09-10,500
+Praveen Kumar,CD,New Accts,Central,Existing,2019-03-29,16000
+Ashok Kumar,Savings,New Accts,Central,Existing,2019-05-19,8000
+Rahul Kumar,CD,Teller,Central,New,2019-05-24,6190
+Arun Kumar,Checking,New Accts,Central,Existing,2019-08-31,500
+Varun Kumar,IRA,New Accts,North County,Existing,2019-01-25,7000
+Praveen Kumar,CD,New Accts,Westside,Existing,2019-04-11,12000
+Abhishek Kumar,Savings,New Accts,Central,Existing,2019-10-22,5245
+Ashok Kumar,Checking,New Accts,North County,Existing,2019-04-03,5000
+Ashok Kumar,Checking,Teller,North County,Existing,2019-10-17,4357
+Abhishek Kumar,CD,Teller,Central,Existing,2019-04-06,10795
+Rahul Kumar,Savings,New Accts,Westside,Existing,2019-11-14,13521
+Varun Kumar,Savings,New Accts,North County,New,2019-04-15,5233
+Praveen Kumar,CD,Teller,Westside,Existing,2019-01-11,13000
+Ashok Kumar,Savings,New Accts,Central,New,2019-02-15,10862
+Ashok Kumar,IRA,Teller,North County,Existing,2019-06-10,10000
+Varun Kumar,Checking,Teller,Westside,New,2019-05-03,14782
+Varun Kumar,Savings,New Accts,Westside,Existing,2019-12-02,14679
+Rahul Kumar,CD,New Accts,Westside,Existing,2019-06-20,12505
+Abhishek Kumar,CD,New Accts,North County,New,2019-04-13,7165
+Rahul Kumar,IRA,New Accts,Westside,Existing,2019-03-05,2000
+Praveen Kumar,Checking,Teller,Central,Existing,2019-02-11,11489
+Rahul Kumar,Checking,Teller,Central,Existing,2019-10-06,12908
+Arun Kumar,Savings,New Accts,North County,New,2019-09-10,4623
+Arun Kumar,Savings,Teller,North County,New,2019-03-07,7989
+Pramod Kumar,Savings,New Accts,Central,Existing,2019-06-28,14611
+Praveen Kumar,Checking,New Accts,Central,Existing,2019-11-16,1000
+Ashok Kumar,Checking,Teller,Central,New,2019-12-10,10273
+Varun Kumar,Checking,Teller,Central,Existing,2019-08-16,14473
+Rahul Kumar,CD,New Accts,Central,New,2019-12-26,9940
+Praveen Kumar,CD,Teller,Central,New,2019-06-03,14189
+Ashok Kumar,Checking,New Accts,Central,Existing,2019-06-22,11984
+Abhishek Kumar,Savings,New Accts,Central,Existing,2019-02-01,10141
+Rahul Kumar,CD,New Accts,North County,New,2019-07-02,4857
+Varun Kumar,CD,Teller,Central,Existing,2019-09-03,8940
+Abhishek Kumar,Checking,New Accts,North County,New,2019-09-22,8882
+Praveen Kumar,Checking,New Accts,Westside,Existing,2019-08-02,100
+Ashok Kumar,Checking,New Accts,Central,Existing,2019-02-24,4000
+Rahul Kumar,CD,New Accts,Westside,New,2019-09-22,13916
+Praveen Kumar,Checking,New Accts,Central,Existing,2019-12-17,240
+Ashok Kumar,CD,Teller,Central,Existing,2019-10-31,2000
+Rahul Kumar,Checking,New Accts,North County,Existing,2019-09-05,5000
+Ashok Kumar,CD,New Accts,Central,Existing,2019-12-26,13000
+Varun Kumar,IRA,New Accts,North County,New,2019-06-25,7000
+Praveen Kumar,Savings,Teller,Central,Existing,2019-03-19,14851
+Abhishek Kumar,CD,New Accts,Westside,New,2019-11-26,12724
+Ashok Kumar,Checking,New Accts,Westside,Existing,2019-03-03,4000
+Varun Kumar,CD,New Accts,Central,New,2019-06-20,13903
+Praveen Kumar,CD,New Accts,Westside,New,2019-03-03,14169
+Rahul Kumar,Checking,Teller,Central,Existing,2019-09-06,4810
+Ashok Kumar,Savings,Teller,Central,Existing,2019-06-06,8000
+Rahul Kumar,CD,New Accts,Central,New,2019-07-17,10768
+Ashok Kumar,CD,Teller,North County,Existing,2019-04-30,12903
+Ashok Kumar,Checking,New Accts,North County,Existing,2019-04-12,4000
+Abhishek Kumar,Checking,New Accts,Central,New,2019-02-18,4000
+Rahul Kumar,Savings,New Accts,Westside,Existing,2019-04-25,500
+Rahul Kumar,Savings,New Accts,Central,Existing,2019-08-17,10147
+Varun Kumar,Savings,New Accts,Westside,Existing,2019-03-28,500
+Rahul Kumar,Savings,New Accts,North County,Existing,2019-05-24,2878
+Ashok Kumar,Savings,New Accts,North County,New,2019-08-08,5664
+Abhishek Kumar,Checking,New Accts,Westside,New,2019-08-11,10976
+Varun Kumar,Checking,New Accts,Central,Existing,2019-02-27,7342
+Varun Kumar,IRA,Teller,North County,Existing,2019-05-02,12455
+Varun Kumar,Checking,Teller,Westside,Existing,2019-02-18,9591
+Ashok Kumar,CD,New Accts,Central,Existing,2019-09-10,15208
+Varun Kumar,Savings,New Accts,North County,New,2019-09-21,12198
+Abhishek Kumar,CD,New Accts,Westside,Existing,2019-06-01,4323
+Ashok Kumar,Savings,New Accts,North County,Existing,2019-03-04,11801
+Rahul Kumar,Savings,Teller,Central,Existing,2019-12-06,10329
+Varun Kumar,Checking,Teller,North County,Existing,2019-09-02,6379
+Ashok Kumar,Checking,New Accts,Central,Existing,2019-09-04,3000
+Abhishek Kumar,CD,New Accts,Central,Existing,2019-10-23,13519
+Praveen Kumar,Checking,Teller,North County,New,2019-05-30,6561
+Rahul Kumar,Checking,New Accts,Central,Existing,2019-04-11,5904
+Varun Kumar,CD,Teller,Westside,Existing,2019-05-17,13000
+Varun Kumar,CD,Teller,North County,Existing,2019-01-20,13155
+Ashok Kumar,Savings,Teller,North County,New,2019-03-15,7854
+Ashok Kumar,CD,Teller,Westside,Existing,2019-07-14,8469
+Rahul Kumar,Savings,New Accts,Central,Existing,2019-06-08,30000
+Varun Kumar,Savings,Teller,Westside,Existing,2019-01-11,11169
+Ashok Kumar,Savings,Teller,North County,Existing,2019-04-14,8042
+Ashok Kumar,Savings,New Accts,Central,New,2019-07-13,7192
+Abhishek Kumar,CD,New Accts,Central,Existing,2019-03-21,15208
+Varun Kumar,CD,Teller,Central,Existing,2019-03-26,5943
+Varun Kumar,CD,New Accts,North County,New,2019-09-03,9001
+Varun Kumar,IRA,Teller,North County,New,2019-11-17,2000
+Ashok Kumar,Checking,New Accts,Westside,Existing,2019-09-25,3807
+Ashok Kumar,Savings,New Accts,Westside,Existing,2019-08-12,4985
+Varun Kumar,CD,Teller,Westside,New,2019-07-01,12276
+Ashok Kumar,Checking,New Accts,Central,New,2019-08-20,12817
+Praveen Kumar,CD,Teller,Central,New,2019-05-24,5586
+Pramod Kumar,Checking,New Accts,Central,Existing,2019-05-14,4010
+Ashok Kumar,CD,Teller,Central,New,2019-09-29,13091
+Ashok Kumar,Savings,New Accts,North County,New,2019-06-04,8436
+Abhishek Kumar,Savings,New Accts,North County,Existing,2019-05-23,14849
+Praveen Kumar,Savings,New Accts,Central,Existing,2019-03-22,11365
+Praveen Kumar,Checking,Teller,Central,New,2019-04-27,7197
+Abhishek Kumar,Savings,New Accts,North County,Existing,2019-03-17,5445
+Ashok Kumar,Checking,Teller,Westside,New,2019-11-09,10322
+Ashok Kumar,CD,Teller,Central,Existing,2019-06-09,4518
+Ashok Kumar,Checking,New Accts,Central,New,2019-02-21,100
+Ashok Kumar,Checking,New Accts,North County,Existing,2019-02-12,11439
+Rahul Kumar,Checking,Teller,Central,New,2019-11-25,10351
+Rahul Kumar,CD,New Accts,Westside,Existing,2019-08-12,12505
+Ashok Kumar,CD,New Accts,North County,Existing,2019-07-25,50000
+Ashok Kumar,IRA,Teller,North County,Existing,2019-08-16,10000
+Rahul Kumar,Checking,New Accts,Central,Existing,2019-03-17,1000
+Varun Kumar,CD,Teller,North County,New,2019-09-07,11901
+Ashok Kumar,CD,Teller,Central,Existing,2019-10-19,17000
+Abhishek Kumar,Checking,New Accts,Westside,Existing,2019-07-18,3171
+Abhishek Kumar,CD,New Accts,Westside,New,2019-06-15,9974
+Varun Kumar,Checking,Teller,Westside,New,2019-07-25,12489
+Varun Kumar,Savings,New Accts,North County,Existing,2019-08-16,250
+Ashok Kumar,Checking,Teller,Central,Existing,2019-12-29,124
+Abhishek Kumar,Checking,New Accts,Central,New,2019-08-13,5879
+Ashok Kumar,CD,New Accts,Central,Existing,2019-03-13,90000
+Abhishek Kumar,Checking,New Accts,North County,New,2019-01-08,1000
+Ashok Kumar,Checking,New Accts,Central,Existing,2019-02-13,100
+Praveen Kumar,Savings,New Accts,Westside,Existing,2019-03-08,5000
+Abhishek Kumar,Savings,Teller,North County,New,2019-06-11,13128
+Ashok Kumar,Checking,Teller,Westside,Existing,2019-07-02,6000
+Varun Kumar,CD,Teller,Westside,Existing,2019-10-19,6662
+Ashok Kumar,CD,New Accts,Westside,Existing,2019-09-25,12505
+Rahul Kumar,Savings,New Accts,Central,New,2019-11-22,10587
+Varun Kumar,Savings,Teller,North County,Existing,2019-05-23,10461
+Varun Kumar,IRA,New Accts,Westside,Existing,2019-05-16,2000
+Ashok Kumar,Savings,Teller,Central,New,2019-03-09,9247
+Varun Kumar,Checking,New Accts,Central,Existing,2019-04-08,240
+Rahul Kumar,CD,Teller,Central,New,2019-12-12,13583
+Ashok Kumar,CD,New Accts,Central,Existing,2019-09-27,90000
+Ashok Kumar,CD,New Accts,North County,Existing,2019-12-13,13500
+Abhishek Kumar,CD,New Accts,Central,New,2019-02-11,11000
+Abhishek Kumar,CD,New Accts,Central,New,2019-07-25,2000
+Varun Kumar,CD,New Accts,Westside,New,2019-05-17,14644
+Varun Kumar,Checking,New Accts,Central,Existing,2019-10-19,1946
+Ashok Kumar,Checking,Teller,Central,Existing,2019-07-17,3728
+Abhishek Kumar,Checking,New Accts,Westside,New,2019-02-05,12673
+Abhishek Kumar,Checking,Teller,North County,Existing,2019-02-21,6565
+Abhishek Kumar,Checking,Teller,North County,Existing,2019-09-21,4000
