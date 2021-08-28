@@ -1,4 +1,4 @@
-"""Dictionary are used to store collection of data with their key:value parirs.
+"""Dictionary are used to store collection of data with their key:value pairs.
 Dictionary is ordered, changable and not allow duplicates. Dictionaries are written with
 curly brackets {} and have its keys and values. we can print item value by using key ex"""
 
